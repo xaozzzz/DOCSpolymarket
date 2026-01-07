@@ -1,1 +1,1 @@
-Oficcial polymarket docs
+Official polymarket docs
