@@ -1,0 +1,154 @@
+# Limit Orders - Polymarket Documentation
+
+Source: https://docs.polymarket.com/polymarket-learn/trading/limit-orders/
+
+Skip to main content
+
+[Polymarket Documentation home page![light logo](https://mintcdn.com/polymarket-292d1b1b/YUHnSq4JdekVofRY/logo/logo-light.svg?fit=max&auto=format&n=YUHnSq4JdekVofRY&q=85&s=a5d3469d0a3a79a41f8d2c92c526ac1a)![dark logo](https://mintcdn.com/polymarket-292d1b1b/YUHnSq4JdekVofRY/logo/logo-dark.svg?fit=max&auto=format&n=YUHnSq4JdekVofRY&q=85&s=4ef5b023ddd4145812e02d98c48e33b6)](/)
+
+Search...
+
+⌘KAsk AI
+
+  * [Main Site](https://polymarket.com)
+  * [Main Site](https://polymarket.com)
+
+
+
+Search...
+
+Navigation
+
+Trading
+
+Limit Orders
+
+[User Guide](/polymarket-learn/get-started/what-is-polymarket)[For Developers](/quickstart/overview)[Changelog](/changelog/changelog)
+
+  * [Polymarket](https://polymarket.com)
+  * [Discord Community](https://discord.gg/polymarket)
+  * [Twitter](https://x.com/polymarket)
+
+
+
+##### Get Started
+
+  * [What is Polymarket?](/polymarket-learn/get-started/what-is-polymarket)
+  * [How to Sign-Up](/polymarket-learn/get-started/how-to-signup)
+  * [How to Deposit](/polymarket-learn/get-started/how-to-deposit)
+  * [Making Your First Trade](/polymarket-learn/get-started/making-your-first-trade)
+
+
+
+##### Deposits and Withdrawals
+
+  * [Deposit by Transfering Crypto](/polymarket-learn/deposits/supported-tokens)
+  * [Deposit with Coinbase](/polymarket-learn/deposits/coinbase)
+  * [Deposit Using Your Card](/polymarket-learn/deposits/moonpay)
+  * [Deposit USDC on Ethereum](/polymarket-learn/deposits/usdc-on-eth)
+  * [Large Cross Chain Deposits](/polymarket-learn/deposits/large-cross-chain-deposits)
+  * [How to Withdraw](/polymarket-learn/deposits/how-to-withdraw)
+
+
+
+##### Markets
+
+  * [How Are Markets Created?](/polymarket-learn/markets/how-are-markets-created)
+  * [How Are Prices Calculated?](/polymarket-learn/trading/how-are-prices-calculated)
+  * [How Are Prediction Markets Resolved?](/polymarket-learn/markets/how-are-markets-resolved)
+  * [How Are Markets Clarified?](/polymarket-learn/markets/how-are-markets-clarified)
+  * [How Are Markets Disputed?](/polymarket-learn/markets/dispute)
+
+
+
+##### Trading
+
+  * [Limit Orders](/polymarket-learn/trading/limit-orders)
+  * [Market Orders](/polymarket-learn/trading/market-orders)
+  * [Holding Rewards](/polymarket-learn/trading/holding-rewards)
+  * [Liquidity Rewards](/polymarket-learn/trading/liquidity-rewards)
+  * [Fees](/polymarket-learn/trading/fees)
+  * [Maker Rebates Program](/polymarket-learn/trading/maker-rebates-program)
+  * [Does Polymarket Have Trading Limits?](/polymarket-learn/trading/no-limits)
+  * [Using the Order Book](/polymarket-learn/trading/using-the-orderbook)
+
+
+
+##### FAQs
+
+  * [Geographic Restrictions](/polymarket-learn/FAQ/geoblocking)
+  * [How To Use Embeds](/polymarket-learn/FAQ/embeds)
+  * [Polymarket vs. Polling](/polymarket-learn/FAQ/polling)
+  * [Recover Missing Deposit](/polymarket-learn/FAQ/recover-missing-deposit)
+  * [Can I Sell Early?](/polymarket-learn/FAQ/sell-early)
+  * [Does Polymarket Have a Token?](/polymarket-learn/FAQ/wen-token)
+  * [Does Polymarket have an API?](/polymarket-learn/FAQ/does-polymarket-have-an-api)
+  * [How Do I Contact Support?](/polymarket-learn/FAQ/support)
+  * [How Do I Export My Key?](/polymarket-learn/FAQ/how-to-export-private-key)
+  * [Is My Money Safe?](/polymarket-learn/FAQ/is-my-money-safe)
+  * [Is Polymarket The House?](/polymarket-learn/FAQ/is-polymarket-the-house)
+  * [Why Crypto?](/polymarket-learn/FAQ/why-do-i-need-crypto)
+  * [What is a Prediction Market?](/polymarket-learn/FAQ/what-are-prediction-markets)
+
+
+
+On this page
+
+  * Video guide
+  * What are Limit Orders?
+  * Managing limit orders
+  * Canceling limit orders
+
+
+
+Trading
+
+# Limit Orders
+
+What are limit orders and how to make them.
+
+## 
+
+​
+
+Video guide
+
+## 
+
+​
+
+What are Limit Orders?
+
+Limit orders are open orders (pending trades) that only execute when the market trades at your desired price. For example, if the highest you’re willing to pay for a share of Trump “Yes” in the 2024 Republican Nomination is 72c, but the current market price is 73c, you could create a limit order at 72c and wait until someone is willing to sell Yes shares at your desired price.
+
+It’s not necessary for the entire order to execute at once. Limit orders can ‘partially fill’ as individual traders fill parts of your order.
+
+## 
+
+​
+
+Managing limit orders
+
+When you have an open order, you’ll find it displayed just below the Order Book on the market’s page. If you have open orders across multiple markets, you can easily manage and monitor them all from the [Portfolio page](https://polymarket.com/portfolio?tab=Open+orders).
+
+Specifically for sports markets, any outstanding limit orders are automatically cancelled once the game begins, clearing the entire order book at the official start time. Be aware, game start times can shift so it’s important to always monitor your orders closely in case they are not cleared due to game changes or other circumstances. 
+
+Additionally, sports markets include a 3-second delay on the placement of marketable orders.
+
+## 
+
+​
+
+Canceling limit orders
+
+When you have an open order, you’ll find it displayed just below the Order Book on the market’s page. To cancel the order, you can simply click the red **x** button alongside the order. If you have open orders across multiple markets, you can easily manage and monitor them all from the [Portfolio page](https://polymarket.com/portfolio?tab=Open+orders). Nice! You can officially call yourself an advanced trader.
+
+If some of this still isn’t making sense, feel free to reach out to us on [Discord](https://discord.com/invite/polymarket). We’re happy to help get you up to speed.
+
+[How Are Markets Disputed?](/polymarket-learn/markets/dispute)[Market Orders](/polymarket-learn/trading/market-orders)
+
+⌘I
+
+[github](https://github.com/polymarket)
+
+[Powered by](https://www.mintlify.com?utm_campaign=poweredBy&utm_medium=referral&utm_source=polymarket-292d1b1b)
